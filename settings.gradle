@@ -1,0 +1,2 @@
+rootProject.name='Ashma Calculator Application'
+include ':app'
